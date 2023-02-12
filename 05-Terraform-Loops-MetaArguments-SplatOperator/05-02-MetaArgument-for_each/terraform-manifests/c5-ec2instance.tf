@@ -1,4 +1,4 @@
-# Availability Zones Datasource
+# Availability Zones Datasource1
 data "aws_availability_zones" "my_azones" {
   filter {
     name   = "opt-in-status"
