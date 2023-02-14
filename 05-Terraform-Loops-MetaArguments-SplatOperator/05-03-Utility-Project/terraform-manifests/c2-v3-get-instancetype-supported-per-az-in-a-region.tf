@@ -1,5 +1,5 @@
 # Get List of Availability Zones in a Specific Region
-# Region is set in c1-versions.tf in Provider Block
+# Region is set in c1-versions.tf in Provider Block1
 # Datasource-1
 data "aws_availability_zones" "my_azones" {
   filter {
