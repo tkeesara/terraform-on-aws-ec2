@@ -335,11 +335,11 @@ Observation:
 
 # Test (Domain will be different for you based on your registered domain)
 # Note: All the below URLS shoud redirect from HTTP to HTTPS
-1. Fixed Response: http://apps.devopsincloud.com   
-2. App1 Landing Page: http://apps.devopsincloud.com/app1/index.html
-3. App1 Metadata Page: http://apps.devopsincloud.com/app1/metadata.html
-4. App2 Landing Page: http://apps.devopsincloud.com/app2/index.html
-5. App2 Metadata Page: http://apps.devopsincloud.com/app2/metadata.html
+1. Fixed Response: http://apps.devopsincloudpractice.com   
+2. App1 Landing Page: http://apps.devopsincloudpractice.com/app1/index.html
+3. App1 Metadata Page: http://apps.devopsincloudpractice.com/app1/metadata.html
+4. App2 Landing Page: http://apps.devopsincloudpractice.com/app2/index.html
+5. App2 Metadata Page: http://apps.devopsincloudpractice.com/app2/metadata.html
 ```
 
 ## Step-12: Clean-Up
