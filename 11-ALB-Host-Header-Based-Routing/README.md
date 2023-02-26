@@ -228,16 +228,16 @@ Observation:
 # Test (Domain will be different for you based on your registered domain)
 # Note: All the below URLS shoud redirect from HTTP to HTTPS
 # App1
-1. App1 Landing Page index.html at Root Context of App1: http://app1.devopsincloud.com
-2. App1 /app1/index.html: http://app1.devopsincloud.com/app1/index.html
-3. App1 /app1/metadata.html: http://app1.devopsincloud.com/app1/metadata.html
-4. Failure Case: Access App2 Directory from App1 DNS: http://app1.devopsincloud.com/app2/index.html - Should return Directory not found 404
+1. App1 Landing Page index.html at Root Context of App1: http://app1.devopsincloudpracticepractice.com
+2. App1 /app1/index.html: http://app1.devopsincloudpractice.com/app1/index.html
+3. App1 /app1/metadata.html: http://app1.devopsincloudpractice.com/app1/metadata.html
+4. Failure Case: Access App2 Directory from App1 DNS: http://app1.devopsincloudpractice.com/app2/index.html - Should return Directory not found 404
 
 # App2
-1. App2 Landing Page index.html at Root Context of App1: http://app2.devopsincloud.com
-2. App1 /app2/index.html: http://app1.devopsincloud.com/app2/index.html
-3. App1 /app2/metadata.html: http://app1.devopsincloud.com/app2/metadata.html
-4. Failure Case: Access App2 Directory from App1 DNS: http://app2.devopsincloud.com/app1/index.html - Should return Directory not found 404
+1. App2 Landing Page index.html at Root Context of App`2: http://app2.devopsincloudpractice.com
+2. App1 /app2/index.html: http://app1.devopsincloudpractice.com/app2/index.html
+3. App1 /app2/metadata.html: http://app1.devopsincloudpractice.com/app2/metadata.html
+4. Failure Case: Access App2 Directory from App1 DNS: http://app2.devopsincloudpractice.com/app1/index.html - Should return Directory not found 404
 ```
 
 ## Step-09: Clean-Up
