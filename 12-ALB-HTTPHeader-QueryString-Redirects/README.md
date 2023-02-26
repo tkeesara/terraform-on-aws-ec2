@@ -266,7 +266,7 @@ custom-header = my-app-2  - Should get the page from App2
 - When Query-String, website=aws-eks redirect to https://stacksimplify.com/aws-eks/
 ```t
 # Verify Rule-3
-https://myapps.devopsincloud.com/?website=aws-eks 
+https://myapps.devopsincloudpractice.com/?website=aws-eks 
 Observation: 
 1. Should Redirect to https://stacksimplify.com/aws-eks/
 ```
@@ -275,7 +275,7 @@ Observation:
 -  When Host Header = azure-aks.devopsincloud.com, redirect to https://stacksimplify.com/azure-aks/azure-kubernetes-service-introduction/
 ```t
 # Verify Rule-4
-http://azure-aks.devopsincloud.com
+http://azure-aks.devopsincloudpractice.com
 Observation: 
 1. Should redirect to https://stacksimplify.com/azure-aks/azure-kubernetes-service-introduction/
 ```
