@@ -535,7 +535,7 @@ terraform apply -var-file="secrets.tfvars"
 - Connect via Jumpbox to DB to verify webappdb, Tables and Content inside
 ```t
 # Connect to MySQL DB
-mysql -h webappdb.cxojydmxwly6.us-east-1.rds.amazonaws.com -u dbadmin -pdbpassword11
+mysql -h webappdb.cxojydmxwly6.ap-south-1.rds.amazonaws.com -u dbadmin -pdbpassword11
 mysql> show schemas;
 mysql> use webappdb;
 mysql> show tables;
